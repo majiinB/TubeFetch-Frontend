@@ -1,4 +1,4 @@
-import Hero from "./hero/page";
+import Hero from "./HeroAndUrl/page";
 import styles from "./page.module.css";
 
 export default function Home() {
